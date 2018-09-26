@@ -1,5 +1,5 @@
 # simple-wavenet
-Simple script which builds a WaveNet model using tensorflow and python
+Script for defining a WaveNet model using tensorflow and python - in 150 lines!
 
 Example use:
 
@@ -16,3 +16,6 @@ outputs = W.define_graph(inputs)
 
 # output shape = (<batch_size>, <num_time_samples>, <num_hidden_channels>)
 ```
+## References
+
+Oord, Aaron van den; Dieleman, Sander; Zen, Heiga; Simonyan, Karen; Vinyals, Oriol; Graves, Alex; Kalchbrenner, Nal; Senior, Andrew; Kavukcuoglu, Koray (2016-09-12). "WaveNet: A Generative Model for Raw Audio". 1609. arXiv:1609.03499
