@@ -1,5 +1,5 @@
 # simple-wavenet
-Script for defining a WaveNet model using tensorflow and python - in 150 lines!
+Simple script for defining a WaveNet model using tensorflow and python - in 150 lines!
 
 Example use:
 
